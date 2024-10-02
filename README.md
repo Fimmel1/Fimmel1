@@ -1,4 +1,5 @@
 # 💫 About Me:
+👋 Hi, I’m Finn, a student with a passion for coding and problem-solving. I love turning ideas into reality through programming! 🚀💻
 🛠️ I'm currently working on: Recreating the game The Legend of Zelda: Twilight Princess using the Unity Game Engine. This project allows me to combine my passion for game development with my love for the Zelda series, while honing my skills in Unity and sharpening my C# skills.
 
 
